@@ -12,6 +12,9 @@ Today, I explore how buildings, machines and infrastructure might adapt, retain 
 **[Living Things Simulation](https://github.com/EvgeniyPusser/living-things-sim)**  
 Computational experiments investigating when buildings benefit from inherited operating strategies. Simplified models, explicit assumptions and reproducible experiments.
 
+**[Living Building Assembly](https://github.com/EvgeniyPusser/living-building-assembly)**  
+An interactive 3D prototype exploring how a Living Building forms, monitors its condition and responds to damage through repair. Illustrative construction and recovery scenarios with simplified structural assumptions.
+
 **[Traffic Engine](https://github.com/EvgeniyPusser/traffic-engine)**  
 Travel-time forecasting using Caltrans sensor data: estimating uncertainty to support decisions about when to depart.
 
