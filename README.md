@@ -32,6 +32,8 @@ An interactive structural test bed for comparing repair strategies after damage.
 A reproducible model of progressive building formation. Explore how different soil conditions change the layout, how sensors trigger a response to unexpected load, and how the same formation rules build a bypass after damage.  
 [View experiments](https://evgeniypusser.github.io/living-building-morphogenesis-v2/) · [Source code](https://github.com/EvgeniyPusser/living-building-morphogenesis-v2)
 
+[![Morphogenesis v2 simulation result: retained cells, damaged cells and newly formed bypass cells](https://raw.githubusercontent.com/EvgeniyPusser/living-building-morphogenesis-v2/main/docs/figures/13_regeneration_difference.png)](https://evgeniypusser.github.io/living-building-morphogenesis-v2/)
+
 **[Living Building Morphogenesis](https://evgeniypusser.github.io/living-building-morphogenesis/)**  
 A graph-based recovery experiment that compares direct repair with a relay route. Changing the available material can lead to a different layout that restores the same circulation function.  
 [View experiment](https://evgeniypusser.github.io/living-building-morphogenesis/) · [Source code](https://github.com/EvgeniyPusser/living-building-morphogenesis)
