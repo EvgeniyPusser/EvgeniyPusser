@@ -7,13 +7,28 @@ My background combines property development, financial and legal structuring, ne
 
 Today, I explore how buildings, machines and infrastructure might adapt, retain operating experience and pass useful knowledge between systems.
 
-### Selected projects
+### Living Things simulators
+
+**[Living Things V3](https://evgeniypusser.github.io/living-things-v3/?lang=en)**  
+An interactive structural test bed for comparing repair strategies after damage. Branch from the same state to see how repair priority, resource use and uncertain loads affect recovery.  
+[Open simulator](https://evgeniypusser.github.io/living-things-v3/?lang=en) · [Results and downloadable data](https://evgeniypusser.github.io/living-things-v3/results.html?lang=en) · [Source code](https://github.com/EvgeniyPusser/living-things-v3)
+
+**[Living Building Morphogenesis v2](https://evgeniypusser.github.io/living-building-morphogenesis-v2/)**  
+A reproducible model of progressive building formation. Explore how different soil conditions change the layout, how sensors trigger a response to unexpected load, and how the same formation rules build a bypass after damage.  
+[View experiments](https://evgeniypusser.github.io/living-building-morphogenesis-v2/) · [Source code](https://github.com/EvgeniyPusser/living-building-morphogenesis-v2)
+
+**[Living Building Morphogenesis](https://evgeniypusser.github.io/living-building-morphogenesis/)**  
+A graph-based recovery experiment that compares direct repair with a relay route. Changing the available material can lead to a different layout that restores the same circulation function.  
+[View experiment](https://evgeniypusser.github.io/living-building-morphogenesis/) · [Source code](https://github.com/EvgeniyPusser/living-building-morphogenesis)
+
+**[Living Building Assembly](https://evgeniypusser.github.io/living-building-assembly/)**  
+An interactive 3D prototype of on-site building formation, with a construction timeline, sensor and utility layers, and illustrative stress and recovery scenarios.  
+[Open 3D prototype](https://evgeniypusser.github.io/living-building-assembly/) · [Source code](https://github.com/EvgeniyPusser/living-building-assembly)
 
 **[Living Things Simulation](https://github.com/EvgeniyPusser/living-things-sim)**  
 Computational experiments investigating when buildings benefit from inherited operating strategies. Simplified models, explicit assumptions and reproducible experiments.
 
-**[Living Building Assembly](https://github.com/EvgeniyPusser/living-building-assembly)**  
-An interactive 3D prototype exploring how a Living Building forms, monitors its condition and responds to damage through repair. Illustrative construction and recovery scenarios with simplified structural assumptions.
+### Other selected projects
 
 **[Traffic Engine](https://github.com/EvgeniyPusser/traffic-engine)**  
 Travel-time forecasting using Caltrans sensor data: estimating uncertainty to support decisions about when to depart.
